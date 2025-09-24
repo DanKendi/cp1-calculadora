@@ -1,0 +1,12 @@
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\bin\Debug\CP1.exe.config
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\bin\Debug\CP1.exe
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\bin\Debug\CP1.pdb
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.csproj.AssemblyReference.cache
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.Form1.resources
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.Properties.Resources.resources
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.csproj.GenerateResource.cache
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.csproj.CoreCompileInputs.cache
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.exe
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.pdb
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.exe.config
+D:\FIAP\ADS\2Ano\dotNet\CP1\CP1\obj\Debug\CP1.Form2.resources
