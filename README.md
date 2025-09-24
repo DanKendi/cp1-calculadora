@@ -20,7 +20,7 @@ Se isso não for feito, o próximo cálculo pode gerar resultados inesperados.
 2. Clique na operação desejada (+, -, *, /, ^).
 3. Digite o segundo número.
 4. Clique em **=** para ver o resultado.
-5. Clique em **C** para limpar e começar um novo cálculo.
+5. Clique em **Clear** para limpar e começar um novo cálculo.
  
 ## 👥 Autores / Integrantes
 Daniel Kendi - 553043
