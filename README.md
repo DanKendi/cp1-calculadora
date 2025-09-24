@@ -23,9 +23,9 @@ Se isso não for feito, o próximo cálculo pode gerar resultados inesperados.
 5. Clique em **Clear** para limpar e começar um novo cálculo.
  
 ## 👥 Autores / Integrantes
-Daniel Kendi - 553043
-Jonas Kimio - 560560
-Marcos Vinicius - 560475
-Lucas da Ressurreição - 560179
-Fabrício José - 560179
-Ranaldo José - 559210
+- Daniel Kendi - 553043
+- Jonas Kimio - 560560
+- Marcos Vinicius - 560475
+- Lucas da Ressurreição - 560179
+- Fabrício José - 560179
+- Ranaldo José - 559210
